@@ -2,7 +2,7 @@
 ## Something about me...
 
 <div align="left">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdqbmR0bmxrOHVkb3VpbmI0N3d6cDllN2huZTJ5aHR1bzgwMWYyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DnMMGxEvniha7CvASq/giphy.gif" width="150" align="right">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdqbmR0bmxrOHVkb3VpbmI0N3d6cDllN2huZTJ5aHR1bzgwMWYyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DnMMGxEvniha7CvASq/giphy.gif" width="250" align="right">
   <p>
     I'm a computer science major at UMass Amherst, exploring the intersections of AI, machine learning, and data science.  
     I'm currently working under Professor Marco Serafini in the Data Systems Group at UMass Amherst, focusing on scalable 
