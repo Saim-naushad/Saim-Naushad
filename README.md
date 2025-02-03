@@ -1,14 +1,17 @@
 ## Hey there I'm Saim Naushad!
 ## Something about me...
 
-<p align="right">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdqbmR0bmxrOHVkb3VpbmI0N3d6cDllN2huZTJ5aHR1bzgwMWYyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DnMMGxEvniha7CvASq/giphy.gif" width="250" alt="Cool GIF">
-</p>
-
-<p allign="left">
-I'm a computer science major at Umass Amherst, exploring the intersections of AI, machine learning, and data science. I’m currently working under Professor Marco Serafini in the Data Systems Group at UMass Amherst, focusing on scalable vector database techniques for efficient large-scale data management.
-</p>
-Beyond coding, I like unravelling the world of crypto and explore the future of decentralized tech.  
+<div align="left">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdqbmR0bmxrOHVkb3VpbmI0N3d6cDllN2huZTJ5aHR1bzgwMWYyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DnMMGxEvniha7CvASq/giphy.gif" width="150" align="right">
+  <p>
+    I'm a computer science major at UMass Amherst, exploring the intersections of AI, machine learning, and data science.  
+    I'm currently working under Professor Marco Serafini in the Data Systems Group at UMass Amherst, focusing on scalable 
+    vector database techniques for efficient large-scale data management.
+  </p>
+  <p>
+    Beyond coding, I like unraveling the world of crypto and exploring the future of decentralized tech.
+  </p>
+</div>
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
