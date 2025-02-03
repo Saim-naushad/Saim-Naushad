@@ -2,6 +2,7 @@
 ## Something about me...
 
 I'm a computer science major at Umass Amherst, exploring the intersections of AI, machine learning, and data science. I’m currently working under Professor Marco Serafini in the Data Systems Group at UMass Amherst, focusing on scalable vector database techniques for efficient large-scale data management.
+
 Beyond coding, I like unravelling the world of crypto and explore the future of decentralized tech.  
 
 
