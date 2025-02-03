@@ -1,21 +1,22 @@
 ## Hey there! I'm Saim Naushad  
 
-## Hey there! I'm Saim Naushad  
+<table>
+<tr>
+<td>
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div>
-    
-  ### **Something about me...**  
-  I'm a computer science major at UMass Amherst, exploring AI, machine learning, and data science.  
-  I'm currently working under Professor Marco Serafini in the Data Systems Group at UMass Amherst,  
-  focusing on scalable vector database techniques for large-scale data management.  
+### **Something about me...**  
+I'm a computer science major at UMass Amherst, exploring AI, machine learning, and data science. I'm currently working under Professor Marco Serafini in the Data Systems Group at UMass Amherst, focusing on scalable vector database techniques for large-scale data management.  
 
-  Beyond coding, I like unraveling the world of crypto and exploring decentralized tech.
+Beyond coding, I like unraveling the world of crypto and exploring decentralized tech.  
 
-  </div>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdqbmR0bmxrOHVkb3VpbmI0N3d6cDllN2huZTJ5aHR1bzgwMWYyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DnMMGxEvniha7CvASq/giphy.gif"  width="250px">
-</div>
+</td>
+<td>
 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdqbmR0bmxrOHVkb3VpbmI0N3d6cDllN2huZTJ5aHR1bzgwMWYyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DnMMGxEvniha7CvASq/giphy.gif"   width="250px">
+
+</td>
+</tr>
+</table>
 
 ---
 
