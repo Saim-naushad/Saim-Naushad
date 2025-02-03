@@ -1,6 +1,10 @@
 ## Hey there I'm Saim Naushad!
 ## Something about me...
 
+<p align="right">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdqbmR0bmxrOHVkb3VpbmI0N3d6cDllN2huZTJ5aHR1bzgwMWYyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DnMMGxEvniha7CvASq/giphy.gif" width="250" alt="Cool GIF">
+</p>
+
 I'm a computer science major at Umass Amherst, exploring the intersections of AI, machine learning, and data science. I’m currently working under Professor Marco Serafini in the Data Systems Group at UMass Amherst, focusing on scalable vector database techniques for efficient large-scale data management.
 
 Beyond coding, I like unravelling the world of crypto and explore the future of decentralized tech.  
