@@ -3,6 +3,7 @@
 <table>
 <tr>
 <td>
+  
 ### **Something about me...**  
 I'm a computer science major at UMass Amherst, exploring AI, machine learning, and data science. I'm currently working under Professor Marco Serafini in the Data Systems Group at UMass Amherst, focusing on scalable vector database techniques for large-scale data management.  
 
