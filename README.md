@@ -1,4 +1,4 @@
-# Hi, I'm Saim Naushad
+# Hi, I'm Saim 
 
 Computer Science student at UMass Amherst building distributed systems, industrial software, and applied machine-learning systems. My work spans vector search and high-performance computing, event-driven telemetry platforms, computer vision, and software for the physical world.
 
@@ -8,7 +8,7 @@ I’m especially interested in turning real-world data into reliable, explainabl
 
 | Project | What I built |
 | --- | --- |
-| [ODIS](https://github.com/Saim-naushad/Odis) · [Demo](https://drive.google.com/file/d/1wWjBaNk9ZqHR3CVY-pbjQcYz5EwkuNI-/view?usp=sharing) | Event-driven industrial operations platform that converts Kafka and MQTT telemetry into explainable, auditable operator decisions. |
+| [ODIS](https://github.com/Saim-naushad/Odis) | Event-driven industrial operations platform that converts Kafka and MQTT telemetry into explainable, auditable operator decisions. |
 | [Distributed HNSW Benchmark](https://github.com/Saim-naushad/distributed-hnsw-benchmark) | Million-scale vector-search benchmarking on the UMass Swarm HPC cluster with reproducible performance analysis. |
 | [DistANN](https://github.com/Saim-naushad/distann) | C++ research implementation for distributed approximate nearest-neighbor search using HNSW and CLIP embeddings. |
 | [Tennis AI Analysis](https://github.com/Saim-naushad/Tennis-AI-Analysis) | Computer-vision pipeline for player and ball tracking, court mapping, and match analytics. |
